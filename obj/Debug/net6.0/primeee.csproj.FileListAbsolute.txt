@@ -1,0 +1,15 @@
+C:\Users\hp\source\repos\primeee\primeee\obj\Debug\net6.0\primeee.csproj.AssemblyReference.cache
+C:\Users\hp\source\repos\primeee\primeee\obj\Debug\net6.0\primeee.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\source\repos\primeee\primeee\obj\Debug\net6.0\primeee.AssemblyInfoInputs.cache
+C:\Users\hp\source\repos\primeee\primeee\obj\Debug\net6.0\primeee.AssemblyInfo.cs
+C:\Users\hp\source\repos\primeee\primeee\obj\Debug\net6.0\primeee.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\primeee\primeee\bin\Debug\net6.0\primeee.exe
+C:\Users\hp\source\repos\primeee\primeee\bin\Debug\net6.0\primeee.deps.json
+C:\Users\hp\source\repos\primeee\primeee\bin\Debug\net6.0\primeee.runtimeconfig.json
+C:\Users\hp\source\repos\primeee\primeee\bin\Debug\net6.0\primeee.dll
+C:\Users\hp\source\repos\primeee\primeee\bin\Debug\net6.0\primeee.pdb
+C:\Users\hp\source\repos\primeee\primeee\obj\Debug\net6.0\primeee.dll
+C:\Users\hp\source\repos\primeee\primeee\obj\Debug\net6.0\refint\primeee.dll
+C:\Users\hp\source\repos\primeee\primeee\obj\Debug\net6.0\primeee.pdb
+C:\Users\hp\source\repos\primeee\primeee\obj\Debug\net6.0\primeee.genruntimeconfig.cache
+C:\Users\hp\source\repos\primeee\primeee\obj\Debug\net6.0\ref\primeee.dll

@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\hp\\source\\repos\\prime number\\prime number\\perfect number.csproj",
-      "projectName": "perfect number",
-      "projectPath": "C:\\Users\\hp\\source\\repos\\prime number\\prime number\\perfect number.csproj",
+      "projectUniqueName": "C:\\Users\\hp\\source\\repos\\primeee\\primeee\\primeee.csproj",
+      "projectName": "primeee",
+      "projectPath": "C:\\Users\\hp\\source\\repos\\primeee\\primeee\\primeee.csproj",
       "packagesPath": "C:\\Users\\hp\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\hp\\source\\repos\\prime number\\prime number\\obj\\",
+      "outputPath": "C:\\Users\\hp\\source\\repos\\primeee\\primeee\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\hp\\AppData\\Roaming\\NuGet\\NuGet.Config",

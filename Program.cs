@@ -1,26 +1,43 @@
-﻿int num1, num2;
-Console.WriteLine("Get All Perfect In Range of Between two Number");
+﻿using System.Runtime.ConstrainedExecution;
+using System;
+using Microsoft.VisualBasic.FileIO;
+
+int num1, num2,div;
+div = 0;
+Console.WriteLine("Get All prime numbers In Range of Between two Number");
 Console.WriteLine("Enter the first number:");
 num1 = (int)double.Parse(Console.ReadLine());
 Console.WriteLine("Enter the second number:");
 num2 = (int)double.Parse(Console.ReadLine());
-Console.WriteLine(" the perfect number between " + num1 + " and " + num2);
+Console.WriteLine(" the prime number between " + num1 + " and " + num2);
 
-for (int i = num1; i <= num2; i++)
+for (int i = num1; i < num2; i++)
+
 {
-    decimal sum = 0;
-    for (int j = 1; j < i; j++)
+
+    for (int j = 1; j < num2; j++)
+
     {
+
         if (i % j == 0)
-            sum = sum + j;
+
+        {
+
+            div++;
+
+        }
+
     }
-    if (sum == i)
-        Console.WriteLine("\t" + i);
+
+    if (div == 2)
+
+    {
+
+        Console.WriteLine(i);
+
+    }
+
+    div = 0;
+
 }
-
-
-
-
-
-
 
